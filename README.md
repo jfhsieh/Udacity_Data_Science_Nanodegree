@@ -1,1 +1,1 @@
-# Udacity_Data_Science_Nanodegree
+There are several projects here that demonstrate how to build effective machine learning models, run data pipelines, design experiments, build recommendation systems, and deploy solutions to the cloud.
